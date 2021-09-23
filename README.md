@@ -1,4 +1,4 @@
 - 👋 Hola, Soy @Gaboox330
 - 👀 Estoy interesado en aprender programación en general
-- 🌱 Actualmente estoy terminando un curso de CSS y luego compraré uno de JavaScript para comenzar a desarrollar páginas web como Freelancer
+- 🌱 Actualmente estudio de forma autodidacta via Udemy y ya he terminado 2 cursos, los cuales son de HTML y CSS en profundidad, Ahora comenzaré uno de JavaScript y más adelante pretendo comprar uno de Go y de Python.
 - Tengo 15 años y el proximo año comenzaré a estudiar Electronica para titularme de eso en 2 años más, a futuro pretendo estudiar Ingenieria en Informatica.
